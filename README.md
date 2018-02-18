@@ -11,6 +11,7 @@ For installing use command:
 
     python3 setup install
 
-Warning
+
+<span style="color:red">Warning</span>
 ---
 For this moment 2018/02/18 service [flyniki.com](https://fluniki.com) was suspended
